@@ -1,4 +1,4 @@
-# 📦 QR Code Generator (Node.js)
+# 📦 QR Code Generator
 
 Um pequeno projeto em **Node.js** que gera um **QR Code em PNG** a partir de um link inserido pelo usuário no terminal.
 O programa solicita uma URL, gera o QR Code correspondente e salva automaticamente a imagem no diretório do projeto.
